@@ -19,8 +19,14 @@ yarn-error.log
 /bootstrap
 /lang
 /gitattributes
-/env.example
+.env.example
 /routes/channels.php
 /routes/console.php
 /storage/logs
 /public/css
+/resources/css
+/resources/js
+/resources/css
+.gitattributes
+composer.lock
+phpunit.xml
