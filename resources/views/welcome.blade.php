@@ -1,5 +1,5 @@
 @extends('layouts.guestLayout')
-@section('title', 'Welcome To')
+@section('title', 'Welcome')
 @section('description', 'Best Saloon Welcome')
 
 
@@ -103,8 +103,8 @@
                                                     <li><a href="tabs-and-accordions.html">Tabs and Accordions</a></li>
                                                     <li><a href="typography.html">Typography</a></li>
                                                 </ul>
-                                            </li>
-                                        </ul> --}}
+                                                     <li><a href="header-transparent.html">Header transparent</a></li>
+                                       </ul> --}}
                                         <span class="rd-navbar-submenu-toggle"></span>
                                     </li>
                                     <li class="rd-navbar--has-dropdown rd-navbar-submenu"><a href="about.html">About</a>
