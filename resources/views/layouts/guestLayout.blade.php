@@ -67,6 +67,15 @@
         href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap">
     <link rel="stylesheet" href="css/plugins.css" />
     <link rel="stylesheet" href="{{ asset('css/styles.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/animate.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/baber-icons.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/datepicker.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/popup.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/owl.theme.default.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/select2.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/themify-icons.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/slider.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/media.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}" />
 </head>
