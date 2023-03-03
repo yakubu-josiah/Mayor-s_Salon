@@ -18,7 +18,7 @@
         </svg>
     </div> --}}
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-md">
+    <nav class="navbar navbar-expand-md  body-dark">
         <div class="container">
             <!-- Logo -->
             <div class="logo-wrapper">
