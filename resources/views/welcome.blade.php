@@ -122,5 +122,36 @@
             </div>
         </div>
     </section>
-    
+    <!-- Services Box -->
+    <section class="services-box section-padding pt-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="item"> <span class="icon icon icon-icon-1-6"></span>
+                        <div class="cont">
+                            <h5>Cuts</h5>
+                            <p>Cuts ut nisl quam nestibulum drana odio elementum sceisue the can golden varius the dis monte.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="item"> <span class="icon icon-icon-1-3"></span>
+                        <div class="cont">
+                            <h5>Fades</h5>
+                            <p>Fades ut nisl quam nestibulum drana odio elementum sceisue the can golden varius the dis monte.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="item"> <span class="icon icon-icon-1-1"></span>
+                        <div class="cont">
+                            <h5>Shaves</h5>
+                            <p>Shaves ut nisl quam nestibulum drana odio elementum sceisue the can golden varius the dis monte.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        
 @endsection
