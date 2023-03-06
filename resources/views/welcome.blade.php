@@ -18,7 +18,7 @@
         </svg>
     </div> --}}
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-md bg-black">
+    <nav class="navbar navbar-expand-md bg-black navhead">
         <div class="container">
             <!-- Logo -->
             <div class="logo-wrapper">
@@ -65,8 +65,8 @@
         </div>
     </nav>
     <!-- Kenburns Slider -->
-    <aside class="kenburns-section" id="kenburnsSliderContainer" data-overlay-dark="6">
-        <div class="kenburns-inner h-100">
+    <aside class="kenburns-section pt-5" id="kenburnsSliderContainer" data-overlay-dark="6">
+        <div class="kenburns-inner h-100 pt-3">
             <div class="v-middle caption text-center">
                 <div class="container">
                     <div class="row h-100 justify-content-center">
