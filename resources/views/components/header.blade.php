@@ -1,9 +1,10 @@
 <!-- Navbar -->
-<nav class="navbar navbar-expand-md bg-black navhead">
+<nav class="navbar navbar-expand-md navhead bg-black">
     <div class="container">
         <!-- Logo -->
         <div class="logo-wrapper">
-            <a class="logo" href="index.html"> <img src="img/logo.png" class="logo-img" alt=""> </a>
+            <a class="logo" href="index.html"> <img src="{{ asset('images/mayorlogo.jpeg') }}" class="logo-img" alt="logo" 
+            style="height:60px; width:90px; border-radius:25px"> </a>
             <!-- <a class="logo" href="index.html"> <h2>Perukar <span>Barber Shop</span></h2> </a> -->
         </div>
         <!-- Button -->

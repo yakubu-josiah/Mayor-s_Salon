@@ -40,13 +40,13 @@
         </div>
     </aside>
      <!-- About -->
-     <section class="about section-padding" data-scroll-index="1">
+     <section class="about section-padding bg-dark" data-scroll-index="1">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-30">
                     <div class="section-head mb-20">
                         <div class="section-subtitle">Since 2006</div>
-                        <div class="section-title">Sir Mayor Cutz Salon</div>
+                        <div class="section-title text-white">Sir Mayor Cutz Salon</div>
                     </div>
                     <p>Come experience a unique and edgy barbershop for all your hair and beard needs. ravida haretra nuam enim mi obortis eset uctus enec accumsan eu justo alisuame amet auctor orci donec vitae vehicula risus.</p>
                     <p>Barber utate ons amet ravida haretra nuam the duru miss uctus the drana accumsan justo aliquam sit amet auctor orci done vitae risus duise nisan sapien silver on the accumsan id mauris apien.</p>
