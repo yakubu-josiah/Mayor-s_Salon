@@ -7,7 +7,7 @@
         <title>@yield('title') - {{ config('app.name') }}</title>
         <link type="text/css" rel="stylesheet" id="dark-mode-custom-link">
         <link type="text/css" rel="stylesheet" id="dark-mode-general-link">
-        <link rel="shortcut icon" href="img/favicon.png" />
+        <link rel="shortcut icon" href="{{ asset('images/favicon.png') }}" />
         <link rel="stylesheet"
             href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap">
         <link rel="stylesheet" href="css/plugins.css" />
