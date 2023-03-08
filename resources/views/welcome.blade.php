@@ -107,5 +107,69 @@
             </div>
         </div>
     </section>
+
+    <!-- Services -->
+    <section class="barber-services section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-head text-center">
+                        <div class="section-subtitle">What we're offering</div>
+                        <div class="section-title">Barber Services</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
+                    <div class="item">
+                        <div class="position-re o-hidden"> <img src="{{ asset('images/services.jpg') }}" alt=""> </div>
+                        <div class="con">
+                            <div class="icon icon-icon-1-6"></div>
+                            <h5>Hair Cut</h5>
+                            <div class="line"></div>
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <div class="permalink">Hair cut amet ravida haretra nuam the drana miss uctus enec accumsan.</div>
+                                    <h6>$30</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
+                    <div class="item">
+                        <div class="position-re o-hidden"> <img src="{{ asset('images/services.jpg') }}" alt=""> </div>
+                        <div class="con">
+                            <div class="icon icon-icon-1-1"></div>
+                            <h5>Beard Trim</h5>
+                            <div class="line"></div>
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <div class="permalink">Shaves ons amet ravida haretra nuam the drana miss uctus enec accumsan.</div>
+                                    <h6>$20</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
+                    <div class="item">
+                        <div class="position-re o-hidden"> <img src="{{ asset('images/services.jpg') }}" alt=""> </div>
+                        <div class="con">
+                            <div class="icon icon-icon-1-4"></div>
+                            <h5>Hair Wash</h5>
+                            <div class="line"></div>
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <div class="permalink">Hair wash amet ravida haretra nuam the drana miss uctus enec accumsan.</div>
+                                    <h6>$15</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
         
 @endsection
