@@ -26,8 +26,8 @@
                     <div class="row h-100 justify-content-center">
                         <div class="col-md-8 text-center"> 
                             <h6>Stay sharp, Look good</h6>
-                            <h1>ALL YOUNG MEN BARBER SHOP.</h1> 
-                            <h6>Broadway St, NYC. Appointment: 855 100 4444</h6> 
+                            <h1>NA HERE DEM BOIZ DEY.</h1> 
+                            <h6>3 Suledada Opp. Chemist Bus Stop Ojo, Lagos, Nigeria.</h6> 
                             <a href="#" class="button-1 mt-20">Book Appointment<span></span></a> 
                         </div>
                     </div>
@@ -48,25 +48,31 @@
                         <div class="section-subtitle">Since 2006</div>
                         <div class="section-title text-white">Sir Mayor Cutz Salon</div>
                     </div>
-                    <p>Come experience a unique and edgy barbershop for all your hair and beard needs. ravida haretra nuam enim mi obortis eset uctus enec accumsan eu justo alisuame amet auctor orci donec vitae vehicula risus.</p>
-                    <p>Barber utate ons amet ravida haretra nuam the duru miss uctus the drana accumsan justo aliquam sit amet auctor orci done vitae risus duise nisan sapien silver on the accumsan id mauris apien.</p>
+                    <p>E don tey wey dem guys don see SirMayor service as confam. We dey don carry our service enter the level wey pipu don trust our hand.</p>
+                    <p>If you want chill with the big boiz you nid to carry better head enter here, make you fit enjoy our service.</p>
                     <ul class="about-list list-unstyled mb-30">
                         <li>
                             <div class="about-list-icon"> <span class="ti-check"></span> </div>
                             <div class="about-list-text">
-                                <p>We're professional and certified barbers</p>
+                                <p>Make you know say we no use pkand products for our clients</p>
                             </div>
                         </li>
                         <li>
                             <div class="about-list-icon"> <span class="ti-check"></span> </div>
                             <div class="about-list-text">
-                                <p>We use quality products to make you look perfect</p>
+                                <p>Verify for anywhere, you go see say our team no dey sleep for head because our service dey okay gann.</p>
                             </div>
                         </li>
                         <li>
                             <div class="about-list-icon"> <span class="ti-check"></span> </div>
                             <div class="about-list-text">
-                                <p>We care about our customers satisfaction</p>
+                                <p>Na that style wey dey your mind gann gann naim we go cut give you.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="about-list-icon"> <span class="ti-check"></span> </div>
+                            <div class="about-list-text">
+                                <p>We dey win competitions for home and away.</p>
                             </div>
                         </li>
                     </ul>
