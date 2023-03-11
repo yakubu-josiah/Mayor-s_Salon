@@ -75,6 +75,12 @@
                                 <p>We dey win competitions for home and away.</p>
                             </div>
                         </li>
+                        <li>
+                            <div class="about-list-icon"> <span class="ti-check"></span> </div>
+                            <div class="about-list-text">
+                                <p>Make we burst your head, we dey accept any coin for payment too. E shock you abi?</p>
+                            </div>
+                        </li>
                     </ul>
                 </div>
                 <div class="col col-md-3 animate-box" data-animate-effect="fadeInUp"> <img src="img/about2.jpg" alt="" class="mt-90 mb-30"> </div>
@@ -171,6 +177,106 @@
                                     <h6>$15</h6>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing -->
+    <section class="barber-pricing section-padding position-re">
+        <div class="container">
+            <div class="row">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-head text-center">
+                            <div class="section-subtitle">Pricing Plan</div>
+                            <div class="section-title">Barber Pricing</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="menu-list mb-30">
+                        <div class="item">
+                            <div class="flex">
+                                <div class="title">Wash and Cut</div>
+                                <div class="dots"></div>
+                                <div class="price">$20</div>
+                            </div>
+                            <p><i>Lorem nestibulum sceisue can varius the dis monte.</i></p>
+                        </div>
+                    </div>
+                    <div class="menu-list mb-30">
+                        <div class="item">
+                            <div class="flex">
+                                <div class="title">Head Shave with Razor</div>
+                                <div class="dots"></div>
+                                <div class="price">$30</div>
+                            </div>
+                            <p><i>Lorem nestibulum sceisue can varius the dis monte.</i></p>
+                        </div>
+                    </div>
+                    <div class="menu-list mb-30">
+                        <div class="item">
+                            <div class="flex">
+                                <div class="title">Long Hair</div>
+                                <div class="dots"></div>
+                                <div class="price">$45</div>
+                            </div>
+                            <p><i>Lorem nestibulum sceisue can varius the dis monte.</i></p>
+                        </div>
+                    </div>
+                    <div class="menu-list mb-30">
+                        <div class="item">
+                            <div class="flex">
+                                <div class="title">Children Wash & Cut</div>
+                                <div class="dots"></div>
+                                <div class="price">$25</div>
+                            </div>
+                            <p><i>Lorem nestibulum sceisue can varius the dis monte.</i></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="menu-list mb-30">
+                        <div class="item">
+                            <div class="flex">
+                                <div class="title">Wash and Style</div>
+                                <div class="dots"></div>
+                                <div class="price">$10</div>
+                            </div>
+                            <p><i>Lorem nestibulum sceisue can varius the dis monte.</i></p>
+                        </div>
+                    </div>
+                    <div class="menu-list mb-30">
+                        <div class="item">
+                            <div class="flex">
+                                <div class="title">Short Beard Tidy</div>
+                                <div class="dots"></div>
+                                <div class="price">$15</div>
+                            </div>
+                            <p><i>Lorem nestibulum sceisue can varius the dis monte.</i></p>
+                        </div>
+                    </div>
+                    <div class="menu-list mb-30">
+                        <div class="item">
+                            <div class="flex">
+                                <div class="title">Large beard trim</div>
+                                <div class="dots"></div>
+                                <div class="price">$25</div>
+                            </div>
+                            <p><i>Lorem nestibulum sceisue can varius the dis monte.</i></p>
+                        </div>
+                    </div>
+                    <div class="menu-list mb-30">
+                        <div class="item">
+                            <div class="flex">
+                                <div class="title">Luxury Full Service</div>
+                                <div class="dots"></div>
+                                <div class="price">$60</div>
+                            </div>
+                            <p><i>Lorem nestibulum sceisue can varius the dis monte.</i></p>
                         </div>
                     </div>
                 </div>
