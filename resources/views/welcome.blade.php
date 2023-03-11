@@ -122,7 +122,7 @@
             <div class="row">
                 <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="{{ asset('images/services.jpg') }}" alt=""> </div>
+                        <div class="position-re o-hidden"> <img src="{{ asset('images/mayorlogo.jpeg') }}" alt=""> </div>
                         <div class="con">
                             <div class="icon icon-icon-1-6"></div>
                             <h5>Hair Cut</h5>
@@ -138,7 +138,7 @@
                 </div>
                 <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="{{ asset('images/services.jpg') }}" alt=""> </div>
+                        <div class="position-re o-hidden"> <img src="{{ asset('images/mayorlogo.jpeg') }}" alt=""> </div>
                         <div class="con">
                             <div class="icon icon-icon-1-1"></div>
                             <h5>Beard Trim</h5>
@@ -154,7 +154,7 @@
                 </div>
                 <div class="col-md-4 animate-box" data-animate-effect="fadeInUp">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="{{ asset('images/services.jpg') }}" alt=""> </div>
+                        <div class="position-re o-hidden"> <img src="{{ asset('images/mayorlogo.jpeg') }}" alt=""> </div>
                         <div class="con">
                             <div class="icon icon-icon-1-4"></div>
                             <h5>Hair Wash</h5>
