@@ -354,4 +354,74 @@
             </div>
         </div>
     </section>
+        <!-- Services - We Also Offer -->
+        <section class="services-1 section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-head text-center">
+                            <div class="section-subtitle">Our Services</div>
+                            <div class="section-title">We Also Offer</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="item">
+                            <a href="services-page.html"> <span class="icon icon-icon-1-1"></span>
+                                <h5>Moustache Trim</h5>
+                                <p>Lorem vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                                <div class="shape"> <span class="icon icon-icon-1-1"></span> </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="item">
+                            <a href="services-page.html"> <span class="icon icon-icon-1-9"></span>
+                                <h5>Face Shave</h5>
+                                <p>Lorem vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                                <div class="shape"> <span class="icon icon-icon-1-9"></span> </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="item">
+                            <a href="services-page.html"> <span class="icon icon-icon-1-3"></span>
+                                <h5>Beard Trim</h5>
+                                <p>Lorem vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                                <div class="shape"> <span class="icon icon-icon-1-3"></span> </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="item">
+                            <a href="services-page.html"> <span class="icon icon-icon-1-2"></span>
+                                <h5>Haircut</h5>
+                                <p>Lorem vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                                <div class="shape"> <span class="icon icon-icon-1-2"></span> </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="item">
+                            <a href="services-page.html"> <span class="icon icon-icon-1-6"></span>
+                                <h5>Clipper Cut</h5>
+                                <p>Lorem vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                                <div class="shape"> <span class="icon icon-icon-1-6"></span> </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="item">
+                            <a href="services-page.html"> <span class="icon icon-icon-1-8"></span>
+                                <h5>Facial & Massage</h5>
+                                <p>Lorem vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                                <div class="shape"> <span class="icon icon-icon-1-8"></span> </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
 @endsection
