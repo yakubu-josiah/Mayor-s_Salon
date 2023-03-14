@@ -1,6 +1,6 @@
 @extends('layouts.guestLayout')
 @section('title', 'Welcome')
-@section('description', 'Best Saloon Welcome')
+@section('description', 'Best SirMayor Best Salon Welcome')
 
 
 @section('content')

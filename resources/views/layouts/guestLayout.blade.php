@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>@yield('title') - {{ config('app.name') }}</title>
+        <meta name="description" content="@yield('description') - {{ config('app.name') }}" />
         <link type="text/css" rel="stylesheet" id="dark-mode-custom-link">
         <link type="text/css" rel="stylesheet" id="dark-mode-general-link">
         <link rel="shortcut icon" href="{{ asset('images/mayorFav.png') }}" />
