@@ -284,69 +284,61 @@
         </div>
     </section>
     <!-- Team -->
-    <section class="team section-padding pb-0">
+    <section class="barber-services section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-head text-center">
                         <div class="section-subtitle">Our Barbers</div>
-                        <div class="section-title white">Hair Stylists</div>
+                        <div class="section-title">Hair Stylists</div>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12">
-                    <div class="owl-carousel owl-theme">
-                        <div class="team-card mb-30">
-                            <div class="team-img"><img src="{{ asset('images/mayorlogo.jpeg') }}" alt="" class="w-100"></div>
-                            <div class="team-content">
-                                <h3 class="team-title">Philip Brown<span>Barber</span></h3>
-                                <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
-                                <div class="social">
-                                    <div class="full-width"> <a href="#"><i class="ti-linkedin"></i></a> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter"></i></a> <a href="#"><i class="ti-instagram"></i></a> </div>
-                                </div> <a href="team-details.html" class="button-1 mt-15">Team Details<span></span></a>
-                            </div>
-                            <div class="title-box">
-                                <h3 class="mb-0">Philip Brown<span>Barber</span></h3>
-                            </div>
-                        </div>
-                        <div class="team-card mb-30">
-                            <div class="team-img"><img src="{{ asset('images/mayorlogo.jpeg') }}" alt="" class="w-100"></div>
-                            <div class="team-content">
-                                <h3 class="team-title">Stephen Martin<span>Stylist</span></h3>
-                                <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
-                                <div class="social">
-                                    <div class="full-width"> <a href="#"><i class="ti-linkedin"></i></a> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter"></i></a> <a href="#"><i class="ti-instagram"></i></a> </div>
-                                </div> <a href="team-details.html" class="button-1 mt-15">Team Details<span></span></a>
-                            </div>
-                            <div class="title-box">
-                                <h3 class="mb-0">Stephen Martin<span>Stylist</span></h3>
+                <div class="col-md-4 animate-box fadeInUp animated" data-animate-effect="fadeInUp">
+                    <div class="item">
+                        <div class="position-re o-hidden"> <img src="{{ asset('images/mayorlogo.jpeg') }}" alt=""> </div>
+                        <div class="con">
+                            <div class="icon icon-icon-1-6"></div>
+                            <h5>Hair Cut</h5>
+                            <div class="line"></div>
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <div class="permalink">Hair cut amet ravida haretra nuam the drana miss uctus enec accumsan.</div>
+                                    <h6>$30</h6>
+                                </div>
                             </div>
                         </div>
-                        <div class="team-card mb-30">
-                            <div class="team-img"><img src="{{ asset('images/mayorlogo.jpeg') }}" alt="" class="w-100"></div>
-                            <div class="team-content">
-                                <h3 class="team-title">Dennis Dan<span>Barber</span></h3>
-                                <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
-                                <div class="social">
-                                    <div class="full-width"> <a href="#"><i class="ti-linkedin"></i></a> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter"></i></a> <a href="#"><i class="ti-instagram"></i></a> </div>
-                                </div> <a href="team-details.html" class="button-1 mt-15">Team Details<span></span></a>
-                            </div>
-                            <div class="title-box">
-                                <h3 class="mb-0">Dennis Dan<span>Barber</span></h3>
+                    </div>
+                </div>
+                <div class="col-md-4 animate-box fadeInUp animated" data-animate-effect="fadeInUp">
+                    <div class="item">
+                        <div class="position-re o-hidden"> <img src="{{ asset('images/mayorlogo.jpeg') }}" alt=""> </div>
+                        <div class="con">
+                            <div class="icon icon-icon-1-6"></div>
+                            <h5>Hair Cut</h5>
+                            <div class="line"></div>
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <div class="permalink">Hair cut amet ravida haretra nuam the drana miss uctus enec accumsan.</div>
+                                    <h6>$30</h6>
+                                </div>
                             </div>
                         </div>
-                        <div class="team-card mb-30">
-                            <div class="team-img"><img src="{{ asset('images/mayorlogo.jpeg') }}" alt="" class="w-100"></div>
-                            <div class="team-content">
-                                <h3 class="team-title">Helen Brown<span>Barber</span></h3>
-                                <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
-                                <div class="social">
-                                    <div class="full-width"> <a href="#"><i class="ti-linkedin"></i></a> <a href="#"><i class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter"></i></a> <a href="#"><i class="ti-instagram"></i></a> </div>
-                                </div> <a href="team-details.html" class="button-1 mt-15">Team Details<span></span></a>
-                            </div>
-                            <div class="title-box">
-                                <h3 class="mb-0">Helen Brown<span>Barber</span></h3>
+                    </div>
+                </div>
+                <div class="col-md-4 animate-box fadeInUp animated" data-animate-effect="fadeInUp">
+                    <div class="item">
+                        <div class="position-re o-hidden"> <img src="{{ asset('images/mayorlogo.jpeg') }}" alt=""> </div>
+                        <div class="con">
+                            <div class="icon icon-icon-1-6"></div>
+                            <h5>Hair Cut</h5>
+                            <div class="line"></div>
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <div class="permalink">Hair cut amet ravida haretra nuam the drana miss uctus enec accumsan.</div>
+                                    <h6>$30</h6>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -354,6 +346,10 @@
             </div>
         </div>
     </section>
+
+
+
+    
         <!-- Services - We Also Offer -->
         <section class="services-1 section-padding">
             <div class="container">
