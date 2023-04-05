@@ -327,7 +327,7 @@
                         </div>
                     </div>
                 </div>
-                {{-- <div class="col-md-4 animate-box fadeInUp animated" data-animate-effect="fadeInUp">
+                <div class="col-md-4 animate-box fadeInUp animated" data-animate-effect="fadeInUp">
                     <div class="item">
                         <div class="position-re o-hidden"> <img src="{{ asset('images/mayorlogo.jpeg') }}" alt=""> </div>
                         <div class="con">
@@ -342,7 +342,7 @@
                             </div>
                         </div>
                     </div>
-                </div> --}}
+                </div>
             </div>
         </div>
     </section>
